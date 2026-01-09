@@ -18,3 +18,11 @@ Celem było przygotowanie raportów biznesowych na podstawie zapytań SQL.
 - top produkty
 - średnia wartość zamówienia
 
+# Raport sprzedażowy
+
+Raport przedstawia analizę danych sprzedażowych:
+- sprzedaż miesięczna
+- top produkty
+- wartość zamówień
+
+Dane pochodzą z relacyjnej bazy SQL.
